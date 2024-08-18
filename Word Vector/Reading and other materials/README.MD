@@ -1,1 +1,1 @@
-Link to YouTube tutorials on word vector concepts: [Link 1](https://www.youtube.com/watch?v=ISPId9Lhc1g), Link 2, Link 3
+Link to YouTube tutorials on word vector concepts: [Link 1](https://www.youtube.com/watch?v=ISPId9Lhc1g), [Link 2](https://www.youtube.com/watch?v=viZrOnJclY0&t=18s), [Link 3](https://www.youtube.com/watch?v=3hnC8fLKO4k)
