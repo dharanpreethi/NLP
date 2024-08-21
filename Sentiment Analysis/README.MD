@@ -1,1 +1,1 @@
-
+1. **[Simone Rebora's Sentiment Analysis in Literary Studies. A Critical Survey] (https://www.digitalhumanities.org/dhq/vol/17/2/000691/000691.html) addresses the challenges in applying sentiment analysis to literary works and also discusses various sentiment analysis packages.**
