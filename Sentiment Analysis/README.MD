@@ -2,6 +2,6 @@
 
 **2. [Simone Rebora's Sentiment Analysis in Literary Studies. A Critical Survey](https://www.digitalhumanities.org/dhq/vol/17/2/000691/000691.html) addresses the challenges in applying sentiment analysis to literary works and also discusses various sentiment analysis packages.**
 
-**3. Various models for sentiment analysis are available on [Hugging Face platform](https://huggingface.co/datasets?sort=trending&search=sentiment). Please explore it.
+**3. Various models for sentiment analysis are available on [Hugging Face platform](https://huggingface.co/datasets?sort=trending&search=sentiment). Please explore it.**
 
-**4. Link to [stopwords list](https://gist.github.com/sebleier/554280)
+**4. Link to [stopwords list](https://gist.github.com/sebleier/554280)**
